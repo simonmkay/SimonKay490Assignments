@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        Parse.initialize(this, "APPLICATION ID", "CLIENT KEY");
+        Parse.initialize(this, "ttgRrIbay1WNBVQ4iLaFYJaTc08Gx8ZvO6D0BoNQ", "DuneYcQRZboOqLrwMaevjsFIuevqebGwUj4qVQZx");
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
